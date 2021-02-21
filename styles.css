@@ -34,7 +34,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   margin: 0 auto;
   display: block;
   box-shadow: 4px 5px 20px 2px #525151;
-  width: 80%;
   max-width: 450px;
 }
 .intro-link{
