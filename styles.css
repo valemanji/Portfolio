@@ -1,0 +1,43 @@
+:root{
+	box-sizing: border-box;
+  	background-color: #fff;
+  	font-family: century, serif;
+  	font-size: 1em;
+  	color: #333;
+	background: #eee;
+	}
+*,:before,:after{
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+@font-face {
+    font-family: 'Century';
+    src: url('./fonts/Century-Normal.woff2') format('woff2'),
+        url('./fonts/Century-Normal.woff') format('woff'),
+        url('./fonts/Century-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a{
+  color: inherit;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+	display: block;
+}
+	
+.intro-wrapper{
+	margin: 5vw;
+}
+.intro{
+	margin: 0 auto;
+    display: block;
+    box-shadow: 4px 5px 20px 2px #525151;
+}
+.intro-link{
+	text-decoration: underline;
+}
+.intro-link:hover{
+	fill: white;
+}
