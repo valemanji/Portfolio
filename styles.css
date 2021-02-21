@@ -42,3 +42,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .intro-link:hover{
 	fill: white;
 }
+@media only screen and (max-width: 40em){
+  .intro{
+    max-width: 80vw;
+  }
+}
