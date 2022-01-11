@@ -1,7 +1,7 @@
 :root{
 	box-sizing: border-box;
   	background-color: #fff;
-  	font-family: 'Century', serif;
+  	font-family: 'Century-T', serif;
   	font-size: 1em;
   	color: #333;
 	background: #eee;
@@ -12,7 +12,7 @@
   margin: 0;
 }
 @font-face {
-    font-family: 'Century';
+    font-family: 'Century-T';
     src: url('fonts/Century-Normal.woff2') format('woff2'),
         url('fonts/Century-Normal.woff') format('woff'),
         url('fonts/Century-Normal.ttf') format('truetype');
