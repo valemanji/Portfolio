@@ -34,6 +34,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   margin: 0 auto;
   display: block;
   box-shadow: 4px 5px 20px 2px #525151;
+	width: 60vw;
   max-width: 450px;
 }
 .intro-link{
@@ -44,6 +45,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 @media only screen and (max-width: 40em){
   .intro{
-    max-width: 80vw;
+	  width: 75vw;
+    margin-top: 10vw;
   }
 }
