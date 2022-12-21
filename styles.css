@@ -1,6 +1,5 @@
 :root{
 	box-sizing: border-box;
-  	background-color: #fff;
   	font-family: 'Century-X', serif;
   	font-size: 1em;
   	color: #333;
@@ -33,7 +32,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .intro{
   margin: 0 auto;
   display: block;
-  box-shadow: 4px 5px 20px 2px #525151;
 	width: 60vw;
   max-width: 450px;
 }
